@@ -1,4 +1,10 @@
 /*
+Yana Ivanov
+TTT with 2D Arrays
+Period 5
+2/13/2024
+
+
 This project must play Tic-Tac-Toe.
 
 
@@ -29,8 +35,10 @@ For more in the future and more awesomer...
 
 
 public class Main {
+
+  public static final String[][] = 
   public static void main(String[] args) {
-    new Player();
+    Player first = new Player();
     System.out.println("TTT - RAN WITHOUT ERRORS");
   }
 }
