@@ -33,6 +33,7 @@ For more in the future and more awesomer...
 5) You can make a new class for a turn, or a piece, or a screen painter
 */
 
+// Now it is in Visual Studio Code!
 
 public class Main {
 
